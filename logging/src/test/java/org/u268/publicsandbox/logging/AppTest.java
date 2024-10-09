@@ -1,4 +1,4 @@
-package com.example;
+package org.u268.publicsandbox.logging;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

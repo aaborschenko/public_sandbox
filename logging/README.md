@@ -5,7 +5,7 @@ Build:
  
 You can run the program with the IS_DEBUG_ENABLED strategy as an argument:
 
-` mvn exec:java -Dexec.mainClass="com.example.App" -Dexec.args="STATIC_IS_DEBUG_ENABLED"`
+` mvn exec:java -Dexec.mainClass="org.u268.publicsandbox.logging.App" -Dexec.args="STATIC_IS_DEBUG_ENABLED"`
 
 Other strategies are:
 
