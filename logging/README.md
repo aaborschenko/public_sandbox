@@ -1,5 +1,8 @@
 # Testing Log4j2 logging strategies
 
+This is codebase for story: 
+https://medium.com/@aaborschenko/why-not-to-use-lambdas-in-log-debug-77b5b71919e9
+
 Build:
 `mvn clean install`
  
