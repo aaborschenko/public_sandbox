@@ -15,7 +15,7 @@ import java.util.List;
  * mvn clean install
  * You can run the program with the IS_DEBUG_ENABLED strategy as an argument:
  * <p>
- * java com.example.App IS_DEBUG_ENABLED
+ *  mvn exec:java -Dexec.mainClass="com.example.App" -Dexec.args="STATIC_IS_DEBUG_ENABLED"
  * <p>
  * Other strategies are:
  * <p>
